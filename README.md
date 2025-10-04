@@ -3,6 +3,7 @@
 # Tokenized Vault Smart Contract Solidity ERC-4626 + ERC-7943
 
 Python Backend Overview
+
 The backend acts as a service integrating smart contract interaction via Web3.py, Chainlink oracle feeds for gold valuation, risk logic, and endpoints for frontend communication.
 
 ## Key Components:
