@@ -1,5 +1,7 @@
 #  Copyright @ ST Technologies
 
+# Tokenized Vault Smart Contract Solidity ERC-4626 + ERC-7943
+
 ## Program Code Logic:
 
 vault_api.py: Flask backend with live Chainlink price feed integration for gold using AggregatorV3Interface ABI.
